@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bettertimetables/precache-manifest.7d831c12553094033d368c048aaef9d8.js"
+  "/bettertimetables/precache-manifest.c8b9da7e904ec61ac26b9ba6c1b965aa.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "917f0285e3616037833b67ec96a792fc",
+    "revision": "b8fb0db54d2065160bf742417efe75fd",
     "url": "/bettertimetables/index.html"
   },
   {
-    "revision": "20c5d087961a8b6bd183",
+    "revision": "f06de6ac847b5fdb15b6",
     "url": "/bettertimetables/static/css/main.4ef6c6ef.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bettertimetables/static/js/2.b2aec45c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "20c5d087961a8b6bd183",
-    "url": "/bettertimetables/static/js/main.42a13d19.chunk.js"
+    "revision": "f06de6ac847b5fdb15b6",
+    "url": "/bettertimetables/static/js/main.01ed8f93.chunk.js"
   },
   {
     "revision": "5b0f543b7bc4d6891b52",
