@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bettertimetables/static/css/main.4ef6c6ef.chunk.css",
+    "main.js": "/bettertimetables/static/js/main.42a13d19.chunk.js",
+    "main.js.map": "/bettertimetables/static/js/main.42a13d19.chunk.js.map",
+    "runtime-main.js": "/bettertimetables/static/js/runtime-main.9fa44695.js",
+    "runtime-main.js.map": "/bettertimetables/static/js/runtime-main.9fa44695.js.map",
+    "static/js/2.b2aec45c.chunk.js": "/bettertimetables/static/js/2.b2aec45c.chunk.js",
+    "static/js/2.b2aec45c.chunk.js.map": "/bettertimetables/static/js/2.b2aec45c.chunk.js.map",
+    "index.html": "/bettertimetables/index.html",
+    "precache-manifest.7d831c12553094033d368c048aaef9d8.js": "/bettertimetables/precache-manifest.7d831c12553094033d368c048aaef9d8.js",
+    "service-worker.js": "/bettertimetables/service-worker.js",
+    "static/css/main.4ef6c6ef.chunk.css.map": "/bettertimetables/static/css/main.4ef6c6ef.chunk.css.map",
+    "static/js/2.b2aec45c.chunk.js.LICENSE.txt": "/bettertimetables/static/js/2.b2aec45c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fa44695.js",
+    "static/js/2.b2aec45c.chunk.js",
+    "static/css/main.4ef6c6ef.chunk.css",
+    "static/js/main.42a13d19.chunk.js"
+  ]
+}
